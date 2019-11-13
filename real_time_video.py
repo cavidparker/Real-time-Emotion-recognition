@@ -17,7 +17,7 @@ EMOTIONS = ["angry" ,"disgust","scared", "happy", "sad", "surprised",
 
 
 # starting video streaming
-cv2.namedWindow('face')
+cv2.namedWindow('your_face')
 camera = cv2.VideoCapture(0)
 while True:
     frame = camera.read()[1]
@@ -57,7 +57,7 @@ while True:
 
                 
                 w = int(prob * 300)
-                cv2.rectangle(canvas, (7, (i * 35) + 5),q
+                cv2.rectangle(canvas, (7, (i * 35) + 5),
                 (w, (i * 35) + 35), (0, 255, 255), -5)
                 cv2.putText(canvas, text, (10, (i * 35) + 23),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.45,
