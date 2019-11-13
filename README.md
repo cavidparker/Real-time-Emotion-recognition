@@ -1,4 +1,4 @@
 # Real-time-Emotion-recognition
 
 
-# angry.png
+![](result/happy.PNG)
