@@ -52,7 +52,7 @@ while True:
                 # construct the label text
                 text = "{}: {:.2f}%".format(emotion, prob * 100)
 
-                # draw the label + probability bar on the canvas
+                # draw the label + probability bar on the canvas :
             
 
                 
