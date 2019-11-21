@@ -1,16 +1,16 @@
 # Real-time-Emotion-recognition
 
-### Happy face:
+### Happy face :
 ![](result/happy.PNG)
 
-### Angry face:
+### Angry face :
 ![](result/angry.PNG)
 
-### Neutral face:
+### Neutral face :
 ![](result/neutral.PNG)
 
-### Sad face:
+### Sad face :
 ![](result/sad.PNG)
 
-### Surprised face:
+### Surprised face :
 ![](result/surprised.PNG)
